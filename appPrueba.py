@@ -2,7 +2,7 @@ import flet as ft
 
 def main(page: ft.Page):
     page.title = "Mi primera aplicación con Flet"
-    page.add(ft.Text("¡hola pitudo estoy en clase uwu!"))
+    page.add(ft.Text("wiwiwi (●'◡'●)"))
 
 
 if __name__ == '__main__':
